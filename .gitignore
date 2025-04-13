@@ -1,0 +1,21 @@
+# Generated files
+/target/
+
+# Backup files
+**/*.rs.bk
+
+# Local configuration
+.cargo/
+
+# Ejecutables de Windows
+*.exe
+*.exe~
+*.pdb
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de instalación
+instalar.bat
+*.iss
