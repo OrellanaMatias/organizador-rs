@@ -23,7 +23,7 @@ Una aplicación de consola en Rust para organizar archivos automáticamente por 
 
 Descarga el archivo ejecutable desde la sección de [releases](https://github.com/OrellanaMatias/organizador-rs/releases).
 
-### Compilar desde código fuente
+### Compilar desde el código fuente
 
 1. Clona el repositorio:
 ```
